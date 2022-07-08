@@ -1,5 +1,5 @@
 # API-REST-ESCALAVEL
-API REST PADRONIZADA E ESCALÁVEL, Simulando uma loja de petshop para gerenciamentos de atendimentos.
+API REST PADRONIZADA E ESCALÁVEL, Simulando uma loja de petshop para gerenciamentos de fornecedores.
 Criação de API com uso de NodeJS e as bibliotecas Express e Body Parser para gerenciar o tipo Json,
 Conexão com o banco com uso do Sequelize,
 Separação do projeto,
